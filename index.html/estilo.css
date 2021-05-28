@@ -1,0 +1,21 @@
+body{
+	background-color: #ffaaaa;
+	
+} 
+pre{
+	color: gray;
+    font-size: 16pt; 
+}
+b{
+	font-size: 22pt;
+}
+div{
+	background: ccc;
+	width: 100%
+}
+img {
+	height:300px;
+	width:400px; 
+	margin: auto;
+	display: block;
+}
